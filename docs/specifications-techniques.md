@@ -8,7 +8,7 @@
 
 \*\*Date :\*\* 13 Novembre 2025  
 
-\*\*Développeur :KOLI Saïdatou-Agbandjala 
+\*\*Développeuse :KOLI Saïdatou-Agbandjala 
 
 \*\*Framework :\*\* Laravel 12  
 
